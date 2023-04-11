@@ -1,6 +1,6 @@
 # Advanced Data Analysis of flights
 
-This Github repository contains code for analyzing flight delay data from the years 2009 to 2018. The main goal of this project is to provide insights into flight delays, allowing users to query information based on specific variables.
+This Github repository contains code for analyzing flight delay data from the years 2009 to 2018 using **Spark** . The main goal of this project is to provide insights into flight delays, allowing users to query information based on specific variables.
 
 The initial step involved merging the "flights" dataframe with the "holidays" dataframe to include all relevant information. Additional columns were created to classify the date as a weekday/weekend, holiday/non-holiday, and specific day of the week.
 
